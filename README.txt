@@ -1,0 +1,1 @@
+Program for logging and storing large amounts of video log data using Discord
